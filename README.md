@@ -2,7 +2,7 @@
 This is a Machine Learning web application built using Streamlit that predicts the likelihood of heart disease based on various medical parameters.
 
 🚀 Live Demo
-You can access the live web app here: [Paste your Streamlit Link Here]
+You can access the live web app here: [https://heartdieseasepridiction-project-app-khfaswlkxmag7hbcqghzd7.streamlit.app/]
 
 📌 Project Overview
 The goal of this project is to provide a quick and user-friendly way to assess heart health. It uses a K-Nearest Neighbors (KNN) classification model trained on clinical data to identify potential risks.
