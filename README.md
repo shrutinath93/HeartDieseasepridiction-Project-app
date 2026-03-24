@@ -1,1 +1,1 @@
-# MNIST-Project-app
+# HeartDiesease-Project-app
