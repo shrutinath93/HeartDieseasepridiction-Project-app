@@ -34,5 +34,5 @@ Result: A success message or warning is displayed on the screen.
 
 👤 Author
 Shruti Nath
-First-year B.Tech Student, Mechanical Engineering
+ B.Tech Student, Mechanical Engineering
 NIT Durgapur
